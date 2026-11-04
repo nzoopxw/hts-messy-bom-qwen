@@ -1,0 +1,5 @@
+method,acc@2,acc@4,acc@6,acc@8,acc@10,avg_digits_correct,well_formed_%,n
+TF-IDF nearest neighbour,97.0,81.4,69.6,69.6,58.6,7.68,100.0,237
+Qwen2.5-3B zero-shot,11.8,1.7,0.0,0.0,0.0,0.35,86.5,237
+"Qwen2.5-3B QLoRA, no augmentation",98.3,89.0,76.4,74.3,59.1,8.06,100.0,237
+Qwen2.5-3B QLoRA (final),98.3,87.8,76.8,75.5,64.6,8.17,100.0,237

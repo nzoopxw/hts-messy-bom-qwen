@@ -1,0 +1,10 @@
+method,subset,acc@2,acc@4,acc@6,acc@8,acc@10,well_formed_%,in_label_set_%,n
+tfidf_knn,all,97.0,81.4,69.6,69.6,58.6,100.0,100.0,237
+tfidf_knn,messy,97.0,81.3,69.4,69.4,58.3,100.0,100.0,235
+tfidf_knn,copied,100.0,100.0,100.0,100.0,100.0,100.0,100.0,2
+qwen_zero_shot,all,11.8,1.7,0.0,0.0,0.0,86.5,0.0,237
+qwen_zero_shot,messy,11.9,1.7,0.0,0.0,0.0,86.4,0.0,235
+qwen_zero_shot,copied,0.0,0.0,0.0,0.0,0.0,100.0,0.0,2
+qwen_finetuned,all,98.3,86.9,76.4,74.3,60.8,100.0,98.7,237
+qwen_finetuned,messy,98.3,86.8,76.2,74.0,60.4,100.0,98.7,235
+qwen_finetuned,copied,100.0,100.0,100.0,100.0,100.0,100.0,100.0,2

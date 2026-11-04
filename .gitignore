@@ -1,0 +1,19 @@
+# credentials — never commit
+.env
+
+# large or re-creatable data
+repos/
+cache/
+__pycache__/
+*.pyc
+
+# raw API-derived outputs (regenerate with the scripts)
+parts_labeled.csv
+parts_raw.csv
+mouser_sample.json
+digikey_sample.json
+
+# model outputs
+qwen_hts_lora_adapter/
+*.zip
+.DS_Store

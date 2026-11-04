@@ -1,0 +1,165 @@
+split,source,text,hts,label_status,project,license,mpn,manufacturer,copied_from_distributor,dk_desc,mouser_desc
+val,real,100nF 0603,8532.24.0020,single,Jana-Marie_hoverboard-breakout,GPL,,,False,CAP CER 0.1UF 50V X7R 0603,
+val,real,USB-MICRO-B-BOTTOM USB-MICRO-B-BOTTOM-MOLEX,8536.69.4040,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,CONN RCPT USB2.0 MICRO B SMD R/A,
+val,real,Conn_02x17_Odd_Even Pogo_Pin_Header_Straight_2x17_,8536.69.4040,single,sci-bots_dropbot-120-channel-pogo-pin-board.kicad,CC-BY-SA,823-22-034-10-000101,Mill-Max,False,,STD SPRING-LOADED CONNECTOR
+val,real,29.4k±1% RES 29.4K OHM 1% 1/16W 0402 R_0402,8533.21.0030,single,greatscottgadgets_cynthion-hardware,CERN-OHL,RC0402FR-0729K4L,Yageo,False,,"General Purpose Chip Resistor 0402, 29.4kOhms, 1%, 1/16W"
+val,real,24±2% DIODE ZENER 24V 250MW DFN1006-2 DFN1006-2,8541.10.0050,single,greatscottgadgets_cynthion-hardware,CERN-OHL,"BZX884-B24,315",Nexperia,False,,BZX884-B24/SOD882/SOD2
+val,real,CP2102N-28 QFN28-PAD,8542.39.0090,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,CP2102,Silicon Labs,False,,
+val,real,IC FLASH 128M SPI 133MHZ 8SOIC,8542.32.0051,single,im-tomu_fomu-hardware,CC-BY-SA,W25Q128JVSIM,Winbond Electronics,False,,"spiFlash, 3V, 128M-bit, 4Kb Uniform Sector, DTR"
+val,real,196k Low frequency analog input 100mW/0.5%/thin R_0402,8533.21.0030,single,wntrblm_Castor_and_Pollux,LICENSE.md,RP73PF1E196KBTD,,False,,HP PrecisionResistor 1E 0.1W 196K
+val,real,0.1uF C_0805,8532.24.0020,single,sci-bots_dropbot-120-channel-pogo-pin-board.kicad,CC-BY-SA,CL21B104KBCNNNC,Samsung,False,,100nF+/-10% 50V X7R 2012
+val,real,P-Channel MOSFET,8541.29.0065,single,eulerlab_open-visual-stimulator,MIT,FDS6575,Fairchild,False,,SO-8 P-CH -20V
+val,real,red CHIPLED_0603,8541.41.0000,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,LED RED CLEAR SMD,
+val,real,8-bit Microcontroller with In-System Programmable Flash,8542.31.0015,single,UDXS_Arduitsy,MIT,,,False,IC MCU 8BIT 8KB FLASH 8SOIC,
+val,real,MEMS OSC XO 48.0000MHZ CMOS SMD,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,DSC6001HI2A-048.0000T,Microchip,False,,MEMS Oscillator Ultr a Low PWR LVCMOS
+val,real,Osc60MHz MEMS OSC XO 60.0000MHZ H/LV-CMOS Crystal_SMD_3225-4Pin,8542.39.0000,single,greatscottgadgets_cynthion-hardware,CERN-OHL,SIT1602BC-23-33E-60.000000E,SiTIME,False,,"20 to 70C, 5032, 20ppm, 3.3V, 100MHz, 60 PPM PR, T&R"
+val,real,1u Bypass 16V/20% C_0402,8532.24.0020,single,wntrblm_Castor_and_Pollux,LICENSE.md,CL05A105KO5NNNC,,False,,1uF+/-10% 16V X5R 10 0402
+val,real,IC REG LINEAR 1.2V 250MA SOT23-5,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,LP5907MFX-1.2/NOPB,TI,False,,250mA Ultra-Lo Noise LDO Reg
+val,real,10nF 0805 X5R,8532.24.0020,single,borgel_sympetrum-v2,MIT,,,False,CAP CER 10000PF 50V X7R 0805,
+val,real,AAT1217-3.3,8542.39.0090,single,borgel_sympetrum-v2,MIT,AAT1217ICA-3.3-T1,Skyworks Solutions,False,,600mA 1.2MHz Synch Boost Converter
+val,real,10uF 3216,8532.21.0050,single,julbouln_ice40_eink_controller,UNKNOWN,TAJA106K010RNJ,AVX,False,,
+val,real,"MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme",8536.90.4000,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,TERM BLK 2POS SIDE ENTRY 5MM PCB,
+val,real,100k RES SMD 100K OHM 5% 1/10W 0402 R_0402,8533.21.0030,single,greatscottgadgets_cynthion-hardware,CERN-OHL,ERJ-2GEJ104X,Panasonic,False,,0402 100Kohms 5% AEC-Q200
+val,real,RESET Tactile_Switch_4.2mm,8536.50.9031,single,wntrblm_Castor_and_Pollux,LICENSE.md,PTS815 SJM 250 SMTR LFS,,False,,"Tact Switch, 12 VDC, 50 mA, 4.2x3.2, 2.5mm H, 180gf, J leads"
+val,real,100k Low frequency analog input 100mW/0.5%/thin R_0402,8533.21.0030,single,wntrblm_Castor_and_Pollux,LICENSE.md,RC0402DR-07100KL,,False,,"General Purpose Chip Resistor 0402, 100kOhms, 0.5%, 1/16W"
+val,real,"680R RESISTOR, European symbol R0603",8533.21.0030,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,RES 680 OHM 1% 1/10W 0603,
+val,real,SN74LS08N AND gate array,8542.39.0090,single,eulerlab_open-visual-stimulator,MIT,SN74LS08N,TI,False,,Quad 2-Input.
+val,real,Tactile Switches SPST 0.05A 12V 250gf,8536.50.9031,single,balthazar-space_balthazarKeyboard3,CERN-OHL-S,,,False,SWITCH TACTILE SPST-NO 0.05A 12V,
+val,real,SPI Flash IC FLASH 128M SPI 133MHZ 8SOIC SOIC-8,8542.32.0051,single,im-tomu_fomu-hardware,CC-BY-SA,W25Q128JVSIM,Winbond Electronics,False,,"spiFlash, 3V, 128M-bit, 4Kb Uniform Sector, DTR"
+val,real,10k 0603,8533.21.0030,single,julbouln_ice40_eink_controller,UNKNOWN,,,False,RES 100K OHM 1% 1/10W 0603,
+val,real,D5V0L1B2LP3-7 TVS-11V,8541.10.0080,single,im-tomu_fomu-hardware,CC-BY-SA,VCUT05E1-SD0-G4-08,Vishay Semiconductor Diodes Division,False,,ESD PROTECTION DIODE CLP0603-e4-G
+val,real,PMOS MOSFET P-CH 30V 10.6A/12A PPAK Vishay_PowerPAK_SC70-6L_Single,8541.29.0065,single,greatscottgadgets_cynthion-hardware,CERN-OHL,SIA483ADJ-T1-GE3,Vishay Siliconix,False,,SC70     P-CH  30V  10.6A
+val,real,4.7uH 20% 1MHz Ferrite 1.1A 1008,8504.50.8000,single,julbouln_ice40_eink_controller,UNKNOWN,CVH252009-4R7M,Bourns,False,,4.7uH 1MHz 20%
+val,real,jumper connector,8536.69.4040,single,eulerlab_open-visual-stimulator,MIT,SSW-103-01-G-S,SamTec,False,,Tiger Buy Socket Strip with PCB Tails
+val,real,0R 301010000 R0402,8533.21.0030,single,pyr0ball_pyr0piezo,CC-BY-SA,RC0402JR-070RL,,False,,"General Purpose Chip Resistor 0402, 0Ohms, 5%, 1/16W"
+val,real,8-bit Microcontrollers - MCU USB 32K Flash 16 MHz,8542.31.0015,single,balthazar-space_balthazarKeyboard3,CERN-OHL-S,,,False,IC MCU 8BIT 32KB FLASH 44TQFP,
+val,real,470R 301010000 R0402,8533.21.0030,single,pyr0ball_pyr0piezo,CC-BY-SA,RC0402JR-070RL,,False,,"General Purpose Chip Resistor 0402, 0Ohms, 5%, 1/16W"
+val,real,0.1uF,8532.24.0020,single,borgel_sympetrum-v2,MIT,08055C104KAT2A,,False,,KGM21NR71H104KT NEW GLOBAL PN 50V 0.1uF A 581-KGM21NR71H104KT
+val,real,48k7 Low frequency analog input 100mW/0.5%/thin R_0402,8533.21.0030,single,wntrblm_Castor_and_Pollux,LICENSE.md,RT0402BRD0748K7L,,False,,1/16W 48.7K ohm .1% 25ppm
+val,real,5.6±2% DIODE ZENER 5.6V 250MW DFN1006-2 DFN1006-2,8541.10.0050,single,greatscottgadgets_cynthion-hardware,CERN-OHL,"BZX884-B5V6,315",Nexperia,False,,BZX884-B5V6/SOD882/SOD2
+val,real,RESISTOR 0805 10k ohms,8533.21.0030,single,UDXS_Arduitsy,MIT,CRCW080510K0FKEA,Vishay,False,,1/4W 10Kohms 1% 100ppm
+val,real,MCP6004 TSSOP-14,8542.33.0001,single,wntrblm_Castor_and_Pollux,LICENSE.md,MCP6004T-I/ST,,False,,Quad 1.8V 1MHz
+val,real,Optocoupler 250mA max current,8541.49.8000,single,eulerlab_open-visual-stimulator,MIT,AQY221R2S,Panasonic,False,,250mA 40V 4PIN C X R10
+val,real,120µH inductor,8504.50.8000,single,eulerlab_open-visual-stimulator,MIT,ELC11D121F,Panasonic,False,,DISCONT: LTB 09-25-2019
+val,real,ATMEGA48PA-MMHR28M1-L 28M1-L,8542.31.0015,single,pyr0ball_pyr0piezo,CC-BY-SA,ATMEGA48PAMMHR,Atmel,False,,AVR 4KB FLSH 256B EE 512B SRAM-20MHz IND
+val,real,0.22ohm,8533.21.0080,single,eulerlab_open-visual-stimulator,MIT,RWM0410R220JR15E1,Vishay,False,,3watt .22ohm 5%
+val,real,22uF,8532.24.0020,single,borgel_sympetrum-v2,MIT,CL21A226MQQNNNG,Samsung,False,,22uF+/-20% 6.3V X5R 0805
+val,real,100Mhz 7mm x 5mm,8542.39.0090,single,julbouln_ice40_eink_controller,UNKNOWN,KC7050A100.000C30E00,AVX,False,,3.3volts 100.00MHz 7 x5 mm DISC-BY-MFG-06/21
+val,real,Multilayer Ceramic Capacitors MLCC - SMD/SMT 16V 22pF C0G 0805 5%,8532.24.0020,single,balthazar-space_balthazarKeyboard3,CERN-OHL-S,,,False,CAP CER 22PF 16V C0G/NP0 0805,
+val,real,8.06k±1% RES SMD 8.06K OHM 1% 1/10W 0402 R_0402,8533.21.0030,single,greatscottgadgets_cynthion-hardware,CERN-OHL,ERJ-2RKF8061X,Panasonic,False,,0402 8.06Kohms 1% AEC-Q200
+val,real,100nF,8532.24.0020,single,borgel_sympetrum-v2,MIT,08055C104KAT2A,,False,,KGM21NR71H104KT NEW GLOBAL PN 50V 0.1uF A 581-KGM21NR71H104KT
+val,real,Female plug 2X14 (1 to Lcr one to Board),8538.90.6000,single,eulerlab_open-visual-stimulator,MIT,PHDR-14VS,JST,False,,PHD HOUSING
+val,real,5kohm,8533.40.8050,single,eulerlab_open-visual-stimulator,MIT,3362P-1-502LF,Bourns,False,,"1/4""SQ 5KOHMS 10% 0.5WATTS"
+val,real,SOT416 BC846,8541.21.0075,single,carrotIndustries_pluto,GPL,,,False,TRANS NPN 45V 0.1A SC75 SOT416,
+val,real,MCP6001-OT SOT-23-5,8542.33.0001,single,wntrblm_Castor_and_Pollux,LICENSE.md,MCP6001T-I/OT,,False,,Single 1.8V 1MHz
+val,real,10nF,8532.24.0020,single,borgel_sympetrum-v2,MIT,CC0805KRX7R9BB103,Yageo,False,,
+val,real,CAT24C02TDI TSOT-23-5,8542.32.0051,single,sci-bots_dropbot-120-channel-pogo-pin-board.kicad,CC-BY-SA,CAT24C02TDI-GT3A,onsemi,False,,EMI FILTER + ESD FOR SIM
+val,real,CON-MOLEX-2P-1.27MM048 53048-02,8536.69.4040,single,pyr0ball_pyr0piezo,CC-BY-SA,53048-0210,,False,,"1.25mm Pit., PicoBlade PCB Header, Single Row, R/A, TH, Tin (Sn) Pltg, Friction Lock, 2 Pos., Tray, 2.3mm PC Tail Lg."
+val,real,5 SWITCH TACTILE SPST-NO 0.02A 15V SPST-NO-Button,8536.50.9031,single,im-tomu_fomu-hardware,CC-BY-SA,PTS525SM15SMTR2 LFS,C&K,True,,SWITCH TACTILE
+val,real,MCU_SWD CONN HEADER VERT 10POS 1.27MM SWD_CONNECTOR_LARGE_BOX,8536.69.4040,single,greatscottgadgets_cynthion-hardware,CERN-OHL,FTSH-105-01-F-D-K,Samtec,False,,1.27MM HIGH RELIABILITY HDR
+val,real,LDO-X2SON-2.5V Texas_X2SON-4,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,LP5907SNX-2.5/NOPB,TI,False,,250mA Ultra-Low Nois e LDO Reg
+val,real,600R@100MHz Analog power filter 500mA L_0603,8548.00.0000,single,wntrblm_Castor_and_Pollux,LICENSE.md,742792651,,False,,WE-CBF 0603 100MHz 600Ohm 1000mA AEC-Q200
+val,real,2V5REG IC REG LINEAR 2.5V 300MA SOT23-5 SOT-23-5,8542.39.0090,single,greatscottgadgets_cynthion-hardware,CERN-OHL,MIC5504-2.5YM5-TR,Microchip,False,,Single 300mA LDO with Enable Pull-Down & Auto Discharge
+val,real,22uF 0805 X5R,8532.24.0020,single,borgel_sympetrum-v2,MIT,,,False,CAP CER 22UF 6.3V X5R 0805,
+val,real,4.7uH,8504.50.8000,single,borgel_sympetrum-v2,MIT,LQH3NPN4R7NJ0L,Murata,False,,1212 4.7uH 30%
+val,real,BC337 SOT23,8541.21.0075,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,TRANS NPN 45V 0.5A TO-236AB,
+val,real,1uF CAP CER 1UF 6.3V X5R 0402 20% C_0402,8532.24.0020,single,greatscottgadgets_cynthion-hardware,CERN-OHL,CL05A105MQ5NNNC,Samsung,False,,1uF+/-20% 6.3V X5R 1 0402
+val,real,1.5kohm,8533.21.0090,single,eulerlab_open-visual-stimulator,MIT,LR1F1K5,TE Connectivity,False,,1.5KOhm 3/5W 50PPM
+val,real,"10u Bypass, 10 V 10V/5% C_0603",8532.24.0020,single,wntrblm_Castor_and_Pollux,LICENSE.md,CL10A106MP8NNNC,,False,,10uF+/-20% 10V X5R 1 0603
+val,real,D_Small TVM-5V,8541.10.0080,single,im-tomu_fomu-hardware,CC-BY-SA,CPDFR5V0,Comchip Technology,False,,1 CH Bidirectional 5V DFN
+val,real,LDO-X2SON-1.2V Texas_X2SON-4,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,LP5907SNX-1.2/NOPB,TI,False,,250mA Ultra-Lo Noise LDO Reg
+val,real,JUMPER SPHD-001T-P0.5 X2 10,8544.42.9090,single,eulerlab_open-visual-stimulator,MIT,APAPA22K254,JST,False,,"10"" PA / PHD / PBV SERIES STANDARD LEADS"
+val,real,Dual Schmitt-Trigger Inverter,8541.10.0070,single,dhairyashah1_USBee32-S2,MIT,IP4220CZ6,Nexperia,False,,
+val,real,Lcr connector,8536.69.4040,single,eulerlab_open-visual-stimulator,MIT,B14B-PHDSS(LF)(SN),JST,False,,PHD HEADER (TOP)
+val,real,SN74HC14N Signal inverter (NOT gate) array,8542.39.0090,single,eulerlab_open-visual-stimulator,MIT,SN74HC14N,TI,False,,Hex Schmitt-Trigger A 595-SN74HCT14N A 5 A 595-SN74HCT14N
+val,real,TL074 TSSOP-14,8542.33.0001,single,wntrblm_Castor_and_Pollux,LICENSE.md,TL074CPW,,False,,Quad Low-Noise JFET-Input
+val,real,600R@100MHz Power filter 500mA L_0603,8548.00.0000,single,wntrblm_Castor_and_Pollux,LICENSE.md,742792651,,False,,WE-CBF 0603 100MHz 600Ohm 1000mA AEC-Q200
+val,real,MC34063AP step up/down regulator,8542.31.0030,single,eulerlab_open-visual-stimulator,MIT,MC34063AP,texas instruments,False,,SMPS Controller
+val,real,4.7uF 0603 25V,8532.24.0020,single,julbouln_ice40_eink_controller,UNKNOWN,C1608X5R1E475K080AC,TDK,False,,0603 25V 4.7uF X5R 10% T: 0.8mm
+val,real,"ICE40UP5K-SG48I ICE40-ULTRAPLUS, 5280 LUTS, 1.2V QFN-48-1EP",8542.31.0060,single,im-tomu_fomu-hardware,CC-BY-SA,ICE40UP5K-SG48I,Lattice,True,,"iCE40 UltraPlus , 5280 LUTs, 1.2V"
+val,real,yellow CHIP-LED0603,8541.41.0000,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,LED YELLOW CLEAR 0603 SMD,
+val,real,IC REG LINEAR 3.3V 250MA SOT23-5,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,LP5907MFX-3.3/NOPB,TI,False,,250mA Ultra-Lo Noise LDO Reg
+val,real,D_Small TVM-12V,8541.10.0080,single,im-tomu_fomu-hardware,CC-BY-SA,CPDF12V-HF,Comchip Technology,False,,"Bidir, 12V"
+val,real,RESET SWITCH TACTILE SPST-NO 0.02A 15V SPST-NO-Button,8536.50.9031,single,im-tomu_fomu-hardware,CC-BY-SA,PTS525SM15SMTR2 LFS,C&K,True,,SWITCH TACTILE
+val,real,Crystal Oscillator XTAL OSC XO 48.0000MHZ CMOS SMD XTAL-2520,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,XC2756CT-ND,ECS,True,XTAL OSC XO 48.0000MHZ CMOS SMD,
+val,real,220R 301010000 R0402,8533.21.0030,single,pyr0ball_pyr0piezo,CC-BY-SA,RC0402JR-070RL,,False,,"General Purpose Chip Resistor 0402, 0Ohms, 5%, 1/16W"
+val,real,4.7uH 0805,8504.50.8000,single,borgel_sympetrum-v2,MIT,LQH3NPN4R7NJ0L,,False,,1212 4.7uH 30%
+val,real,6 SWITCH TACTILE SPST-NO 0.02A 15V SPST-NO-Button,8536.50.9031,single,im-tomu_fomu-hardware,CC-BY-SA,PTS525SM15SMTR2 LFS,C&K,True,,SWITCH TACTILE
+val,real,Potentiometer 25Ohms 5W,8533.40.8070,single,eulerlab_open-visual-stimulator,MIT,026TB32R250B1A1,CTS,False,,25ohms 20% Round Linear Res.
+val,real,USER5 SWITCH TACTILE SPST-NO 0.02A 15V SPST-NO-Button,8536.50.9031,single,im-tomu_fomu-hardware,CC-BY-SA,PTS525SM15SMTR2 LFS,C&K,True,,SWITCH TACTILE
+val,real,PI3USB102G IC USB 2.0 SWITCH 2:1 10TQFN Diodes_10-TQFN_ZL,8542.39.0090,single,greatscottgadgets_cynthion-hardware,CERN-OHL,PI3USB102GZLEX,Diodes Inc.,False,,USB2.0 switch 2:1 Mux/DeMux
+val,real,4.7uF,8532.24.0020,single,borgel_sympetrum-v2,MIT,CL21F475ZPFNNNE,Samsung,False,,"4.7uF-20,+80% 10V Y5 0805"
+val,real,ATmega32U4-AU,8542.31.0015,single,ollyoid_TuneShroom,UNKNOWN,,,False,IC MCU 8BIT 32KB FLASH 44TQFP,
+val,real,78L33ACUTR,8542.39.0090,single,Jana-Marie_hoverboard-breakout,GPL,,,False,IC REG LINEAR 3.3V 100MA SOT89-3,
+val,real,MEMS Oscillator (DNP) MEMS OSC XO 48.0000MHZ CMOS SMD MEMS-20005625B,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,DSC6001HI2A-048.0000T,Microchip,False,,MEMS Oscillator Ultr a Low PWR LVCMOS
+val,real,TVS TVS DIODE 36VWM 80VC DFN1006-2 DFN1006-2,8541.10.0080,single,greatscottgadgets_cynthion-hardware,CERN-OHL,"PESD36VS1UL,315",Nexperia,False,,PESD36VS1UL/SOD882/SOD2
+val,real,1uF C_Disc_D5.0mm_W2.5mm_P5.00mm,8532.24.0020,single,Jana-Marie_hoverboard-breakout,GPL,,,False,CAP CER 1UF 6.3V X5R 0402,
+val,real,green CHIPLED_0603,8541.41.0000,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,LED GREEN CLEAR SMD,
+val,real,MEZZANINE CONN RCPT 30POS SMD GOLD Amphenol_10132798-03,8536.69.4040,single,greatscottgadgets_cynthion-hardware,CERN-OHL,10132798-031100LF,Amphenol,False,,"2.15mm Height,Dbl Rw 30P,Recept,Connecto"
+val,real,TACTM-35N-F,8536.50.9031,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,SWITCH TACTILE SPST-NO 0.05A 12V,
+val,real,SPI Flash IC FLASH 128M SPI 133MHZ 8SOIC SON50P300X200X60-9N,8542.32.0051,single,im-tomu_fomu-hardware,CC-BY-SA,GD25Q16CEIGR,GigaDevice Semiconductor (HK) Limited,False,,16Mbit NOR Flash /3.3V /WSON 3*2*0.45mm /Industrial(-40? to +85?) /T&R
+val,real,8.2kohm,8533.21.0090,single,eulerlab_open-visual-stimulator,MIT,LR1F8K2,TE Connectivity,False,,8.2KOhm 3/5W 50PPM
+val,real,MMBT3906 SOT-23,8541.21.0095,single,wntrblm_Castor_and_Pollux,LICENSE.md,MMBT3906L,,False,,SS SOT23 GP XSTR PBFREE
+val,real,USB3343-CP IC TRANSCEIVER 1/1 24QFN VQFN-24-1EP,8542.39.0090,single,greatscottgadgets_cynthion-hardware,CERN-OHL,USB3343-CP,Microchip,False,,USB ULPI Transceiver
+val,real,"LED, Any Color (Orange recommended)",8541.41.0000,single,UDXS_Arduitsy,MIT,,,False,LED ORANGE CLEAR CHIP SMD,
+val,real,2PNP PNP+PNP TRANS 45V 0.2A SOT-363 SOT-363_SC-70-6,8541.21.0075,single,greatscottgadgets_cynthion-hardware,CERN-OHL,BC857BS,Yangzhou Yangjie,False,,
+val,real,16-bit Microcontroller (TI),8542.31.0020,single,carrotIndustries_pluto,GPL,,,False,IC MCU 16BIT 64KB FRAM 64VQFN,
+val,real,SWITCH TACTILE SPST-NO 0.02A 15V,8536.50.9031,single,im-tomu_fomu-hardware,CC-BY-SA,PTS525SM15SMTR2 LFS,C&K,True,,SWITCH TACTILE
+val,real,USB B Micro Type connector Micro-B Molex 47346-0001,8536.69.4040,single,ollyoid_TuneShroom,UNKNOWN,,,False,CONN RCPT USB2.0 MICRO B SMD R/A,
+val,real,"1k Eurorack level audio, output impedance 150mW/5% R_0603",8533.21.0030,single,wntrblm_Castor_and_Pollux,LICENSE.md,MCT06030C1001FP500,,False,,.1W 1Kohm 1% 0603 50ppm Auto
+val,real,"ICE40UP5K-UWG30 ICE40-ULTRAPLUS, 5280 LUTS, 1.2V",8542.31.0060,single,im-tomu_fomu-hardware,CC-BY-SA,ICE40UP5K-UWG30ITR,Lattice,True,,"iCE40 UltraPlus , 5280 LUTs, 1.2V"
+val,real,0.02±1% RES 0.02 OHM 1% 1/3W 0603 R_0603,8533.21.0030,single,greatscottgadgets_cynthion-hardware,CERN-OHL,ERJ-3BWFR020V,Panasonic,False,,0603 0.02ohm 1% Curr Sense AEC-Q200
+val,real,100nF capacitor (line filter),8532.25.0070,single,eulerlab_open-visual-stimulator,MIT,MKS2D031001A00KI00,Wima,False,,0.1 uF 100 VDC 10%
+val,real,TC_SWD CABLE ADAPTER 6 POS Tag-Connect_TC2030-IDC-FP_2x03,8544.42.9090,single,greatscottgadgets_cynthion-hardware,CERN-OHL,TC2030-CTX,Tag-Connect,False,PLUG-OF-NAILS 6-PIN W/ LEGS,
+val,real,TSOP57xxx TSOP57xxx,8541.49.9500,single,carrotIndustries_pluto,GPL,,,False,SENSOR REMOTE REC 38.0KHZ 40M,
+val,real,330 RES 330 OHM 1% 1/16W 0402 R_0402,8533.21.0030,single,greatscottgadgets_cynthion-hardware,CERN-OHL,RC0402FR-13330RL,Yageo,False,,"General Purpose Chip Resistor 0402, 330Ohms, 1%, 1/16W"
+val,real,"ICE40-ULTRAPLUS, 5280 LUTS, 1.2V",8542.31.0060,single,im-tomu_fomu-hardware,CC-BY-SA,ICE40UP5K-SG48I,Lattice,True,,"iCE40 UltraPlus , 5280 LUTs, 1.2V"
+val,real,DIP-8 socket,8536.69.4040,single,eulerlab_open-visual-stimulator,MIT,110-87-308-41-001101,Preci-dip,False,,
+val,real,MCP6001T-I/OTSOT-23-5_MC-L SOT-23-5_MC-L,8542.33.0001,single,pyr0ball_pyr0piezo,CC-BY-SA,MCP6001TIOT,Microchip,False,,Single 1.8V 1MHz
+val,real,"330u/16V POLARIZED CAPACITOR, European symbol E5-10,5",8532.22.0020,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,CAP ALUM POLY 330UF 20% 16V TH,
+val,real,USER6 SWITCH TACTILE SPST-NO 0.02A 15V SPST-NO-Button,8536.50.9031,single,im-tomu_fomu-hardware,CC-BY-SA,PTS525SM15SMTR2 LFS,C&K,True,,SWITCH TACTILE
+val,real,FERRITE R_0805,8548.00.0000,single,sci-bots_dropbot-120-channel-pogo-pin-board.kicad,CC-BY-SA,742792040,Würth Elektronik,False,,WE-CBF 0805 100MHz 600Ohm 2000mA AEC-Q200
+val,real,2k2 I2C pullup 100mW/5% R_0402,8533.21.0030,single,wntrblm_Castor_and_Pollux,LICENSE.md,ERJ-2RKF2201X,,False,,0402 2.2Kohms 1% AEC-Q200
+val,real,MCP4728 MSOP-10,8542.39.0040,single,wntrblm_Castor_and_Pollux,LICENSE.md,MCP4728A0T-E/UN,,False,,"Quad, 12-bit NV DAC with I2C interface"
+val,real,D5V0L1B2LP3-7 X1-DFN1006-2,8541.10.0080,single,im-tomu_fomu-hardware,CC-BY-SA,D5V0L1B2LP3-7,Diodes Incorporated,False,,1 CH TVS BI Array 5.0 Volts 84W 6A
+val,real,"Pushbutton Switches Silver stem, RGB",8536.50.9031,single,balthazar-space_balthazarKeyboard3,CERN-OHL-S,,,False,SWITCH PUSH SPST-NO 0.01A 12V,
+val,real,Multilayer Ceramic Capacitors MLCC - SMD/SMT WCAP-CSGP 1uF 1206 10% 16V MLCC,8532.24.0020,single,balthazar-space_balthazarKeyboard3,CERN-OHL-S,,,False,CAP CER 1UF 16V X7R 1206,
+val,real,33k RES SMD 33K OHM 5% 1/10W 0402 R_0402,8533.21.0030,single,greatscottgadgets_cynthion-hardware,CERN-OHL,ERJ-2GEJ333X,Panasonic,False,,0402 33Kohms 5% AEC-Q200
+val,real,470pF capacitor,8532.23.0060,single,eulerlab_open-visual-stimulator,MIT,562R10TST47,Vishay,False,,1Kvolts 470pF 10%
+val,real,"100k RESISTOR, European symbol R0603",8533.21.0030,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,RES 100K OHM 1% 1/10W 0603,
+val,real,33 RES ARRAY 4 RES 33 OHM 0804 R_Array_Convex_4x0402,8533.21.0010,single,greatscottgadgets_cynthion-hardware,CERN-OHL,YC124-JR-0733RL,Yageo,False,,33 5% CONVEX SQUARE 4X0402
+val,real,1N5819 diode,8541.10.0080,single,eulerlab_open-visual-stimulator,MIT,1N5819G,ON,False,,"VRRM=40V, IAV=1.0A"
+val,real,BUTTON Tactile_Switch_6mm,8536.50.9031,single,wntrblm_Castor_and_Pollux,LICENSE.md,TL1105SPF160Q,,False,,6.0X2.8MM 160G
+val,real,FUSB302B IC USB TYPE C CTLR PROGR 14-MLP WQFN-14-1EP,8542.31.0030,single,greatscottgadgets_cynthion-hardware,CERN-OHL,FUSB302BMPX,onsemi,False,,302B Type-C Control IC with PD
+val,real,ECP5-BGA256 FPGA - Field Programmable Gate Array ECP5; 12k LUTs; 1.1V lattice_cabga256,8542.31.0060,single,greatscottgadgets_cynthion-hardware,CERN-OHL,LFE5U-12F-6BG256C,Lattice,False,,Lattice ECP5 ; 12k LUTs; 1.1V
+val,real,USB USB_B_Micro_Receptacle,8536.69.4040,single,wntrblm_Castor_and_Pollux,LICENSE.md,10118193-0001LF,,False,,5P MICRO USB TYPE B RECEPTACLE W/ PEGS
+val,real,RES ARRAY 4 RES ZERO OHM 0804 R_Array_Convex_4x0402,8533.21.0010,single,greatscottgadgets_cynthion-hardware,CERN-OHL,YC124-JR-070RL,Yageo,False,,0 Ohm 5% 1/16W 50 Volts
+val,real,W25Q32JVSS IC FLASH 32M SPI 133MHZ 8SOIC SOIC-8,8542.32.0051,single,greatscottgadgets_cynthion-hardware,CERN-OHL,W25Q32JVSSIQ,Winbond,False,,"spiFlash, 32M-bit, 4Kb Uniform Sector"
+val,real,VCUT05E1-SD0 TVS-11V,8541.10.0080,single,im-tomu_fomu-hardware,CC-BY-SA,VCUT05E1-SD0-G4-08,Vishay Semiconductor Diodes Division,False,,ESD PROTECTION DIODE CLP0603-e4-G
+val,real,"ESD ESD diode, ceradiode, MOV, or small capacitor 20V+ C_0603",8533.40.8070,single,wntrblm_Castor_and_Pollux,LICENSE.md,B72500T0250K060,,False,,0603 25V 30A 300mJ
+val,real,"USB Connectors Micro B Skt, Top Mount-SMT",8536.69.4040,single,balthazar-space_balthazarKeyboard3,CERN-OHL-S,,,False,CONN RCPT USB2.0 MICRO B SMD R/A,
+val,real,LDO-X2SON-3.3V Texas_X2SON-4,8542.39.0090,single,im-tomu_fomu-hardware,CC-BY-SA,LP5907SNX-3.3/NOPB,TI,False,,250mA Ultra-Lo Noise LDO Reg
+val,real,6.2±2% DIODE ZENER 6.2V 250MW DFN1006-2 DFN1006-2,8541.10.0050,single,greatscottgadgets_cynthion-hardware,CERN-OHL,"BZX884-B6V2,315",Nexperia,False,,BZX884-B6V2/SOD882/SOD2
+val,real,"100n/16V CAPACITOR, European symbol C0402",8532.24.0020,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,CAP CER 0.1UF 6.3V X5R 0402,
+val,real,N-Channel mosfet,8541.29.0065,single,eulerlab_open-visual-stimulator,MIT,SI4840BDY-T1-GE3,Vishay,False,,40V Vds 20V Vgs SO-8
+val,real,2 Ohm 5W resistor,8533.21.0080,single,eulerlab_open-visual-stimulator,MIT,RS0052R000FE12,Vishay,False,,5watts 2ohms 1%
+val,real,220µF capacitor (line filter),8532.22.0020,single,eulerlab_open-visual-stimulator,MIT,MAL214650221E3,Vishay,False,,220uF 20% 35volts
+val,real,7805 VOLTAGE REGULATOR 78XXS,8542.39.0090,single,RoboticsBrno_RB3200-ESP32universal,UNKNOWN,,,False,IC REG LINEAR 5V 1A TO220-3,
+val,real,3.0±2% DIODE ZENER 3V 250MW DFN1006-2 DFN1006-2,8541.10.0050,single,greatscottgadgets_cynthion-hardware,CERN-OHL,"BZX884-B3V0,315",Nexperia,False,,BZX884-B3V0/SOD882/SOD2
+val,real,2k2 -10V zener current control 100mW/1% R_0402,8533.21.0030,single,wntrblm_Castor_and_Pollux,LICENSE.md,ERJ-2RKF2201X,,False,,0402 2.2Kohms 1% AEC-Q200
+val,real,10nF 0603,8532.24.0020,single,julbouln_ice40_eink_controller,UNKNOWN,0201ZD103KAT2A,AVX,False,,KGM03AR51A103KH NEW GLOBAL PN 10V 0.01uF A 581-KGM03AR51A103KH
+val,real,SFM-120-02-L-D-A SFM-120-02-XXX-D-A,8536.69.4040,single,sci-bots_dropbot-120-channel-pogo-pin-board.kicad,CC-BY-SA,SFM-120-02-L-D-A,Samtec,False,,High-Reliability Tiger Eye Socket Strips
+val,real,AA Battery holder,8536.69.4040,single,borgel_sympetrum-v2,MIT,BCAAPC,,False,BATTERY HOLDER AA PC PIN,
+val,real,78L33ACUTR SOT-89,8542.39.0090,single,Jana-Marie_hoverboard-breakout,GPL,,,False,IC REG LINEAR 3.3V 100MA SOT89-3,
+val,real,SMT Tact Switches,8536.50.9031,single,UDXS_Arduitsy,MIT,,,False,SWITCH TACTILE SPST-NO 0.05A 12V,
+val,real,"HyperRAM DRAM 64Mb HyperRAM x8, 166MHz, Ind temp, 3.0V BGA-24_5x5",8542.32.0002,single,greatscottgadgets_cynthion-hardware,CERN-OHL,W956A8MBYA6I,Winbond,True,,"64Mb HyperRAM x8, 166MHz, Ind temp, 3.0V"
+val,real,2.2uF CAP CER 2.2UF 10V X5R 0603 C_0603,8532.24.0020,single,greatscottgadgets_cynthion-hardware,CERN-OHL,CL10A225KP8NNNC,Samsung,False,,2.2uF+/-10% 10V X5R 0603
+val,real,Capacitor SMD 0402 4.7uF,8532.24.0020,single,carrotIndustries_pluto,GPL,,,False,CAP CER 4.7UF 6.3V X5R 0402,
+val,real,2NPN SOT-363 NPN+NPN 0.3W 0.1A 50V SOT-363_SC-70-6,8541.21.0075,single,greatscottgadgets_cynthion-hardware,CERN-OHL,BC847BS,Yangzhou Yangjie,False,,NPN Si Transistor Epitaxial
+val,real,ATSAMD11 IC MCU 32BIT 16KB FLASH 24QFN QFN-24-1EP,8542.31.0025,single,greatscottgadgets_cynthion-hardware,CERN-OHL,ATSAMD11D14A-MUT,Microchip,True,,IC MCU 32 BIT 16KB Flash 24QFN
+val,real,1k Digital control path 100mW/5% R_0402,8533.21.0030,single,wntrblm_Castor_and_Pollux,LICENSE.md,RC0402JR-071KL,,False,,"General Purpose Chip Resistor 0402, 1kOhms, 5%, 1/16W"
+val,real,PAC1954 IC CURRENT/VOLT MON 1% 16VQFN QFN-16-1EP,8542.39.0090,single,greatscottgadgets_cynthion-hardware,CERN-OHL,PAC1954T-E/4MX,Microchip,False,,"32V, High Side Sensing/4 -Channel Power Monitor w/Accumulator"
+val,real,Filter_EMI_CommonMode CMC 130MA 2LN 28 OHM SMD L_CommonModeChoke_Murata_DLM0N,8548.00.0000,single,greatscottgadgets_cynthion-hardware,CERN-OHL,DLM0NSB280HY2D,Murata,False,,28   OHM
+val,real,30V 500mA D_SOD-123,8541.10.0080,single,wntrblm_Castor_and_Pollux,LICENSE.md,PMEG2005EGWJ,,False,,PMEG2005EGW/SOD123/SOD2
+val,real,SFW24R-1STE1LF CON24_1X24_DRB_SFW,8536.69.4040,single,pyr0ball_pyr0piezo,CC-BY-SA,SFW24R1STE1LF,FCI,False,,"1.00mm Flex Connector, SFW-R series, 24 Position, Bottom side Contact, Side Entry Surface Mount ZIF Connector, Lead Free."
+val,real,CON-MOLEX-3P-1.25MM048 53048-03,8536.69.4040,single,pyr0ball_pyr0piezo,CC-BY-SA,53048-0310,,False,,"1.25mm Pit., PicoBlade PCB Header, Single Row, R/A, TH, Tin (Sn) Pltg, Friction Lock, 3 Pos., Tray, 2.3mm PC Tail Lg."
