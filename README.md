@@ -24,6 +24,10 @@ and a project-wise test split.
 | `results/run1/` | First training run: notebook with outputs, `results.json`, `predictions.csv`, `loss_curve.png` |
 | `results/run2/` | Second training run, used for all analysis in the report: notebook with outputs, `predictions_all.csv` (per-row predictions of every method, including the ablation) and `results_table.csv` recomputed from it |
 | `results/run3/` | Third training run with identical settings; the demo adapter comes from this run (the adapter itself is not committed, as it exceeds GitHub's file-size limit) |
+| `results/valcurve/` | Diagnostic run with identical settings that logs validation loss every 20 steps and validation accuracy after each epoch (`validation_curve.png`, `.json`, executed notebook) |
+| `valcurve_qwen_hts.ipynb` | Notebook for the validation-curve run |
+| `figures/` | Model architecture diagrams |
+| `report/` | Final IEEE-format project report (PDF) |
 
 ## Results (237 test rows from 26 held-out projects)
 
